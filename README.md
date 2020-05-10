@@ -6,7 +6,6 @@ These are the step by step process in this code
 ```python
 #A piece of code to combine all quiz scoresheets to 1
 #Generate a 2nd scoresheet with the difference of old data and new data
-#coded by vishnu rajan
 #Authenticating its me :P
 from google.colab import auth
 auth.authenticate_user()
